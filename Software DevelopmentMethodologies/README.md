@@ -38,7 +38,7 @@
 <table style="width:100%">
   <tr>
   <th >
- <p></p>
+ <p>6.2.3)فیلدهای فعل ، عملکرد و سناریوها</p>
 </th >
   </tr>
    </table>
@@ -48,7 +48,7 @@
 <table style="width:100%">
   <tr>
   <th >
- <p></p>
+ <p>6.2.4)Chunksمحتوا</p>
 </th >
   </tr>
    </table>
@@ -58,7 +58,7 @@
 <table style="width:100%">
   <tr>
   <th >
- <p></p>
+ <p>6.3)سیستم های سرگرمی و بازی</p>
 </th >
   </tr>
    </table>
@@ -68,7 +68,7 @@
 <table style="width:100%">
   <tr>
   <th >
- <p></p>
+ <p>6.4)هویت و ارائه شخصی</p>
 </th >
   </tr>
    </table>
@@ -78,7 +78,7 @@
 <table style="width:100%">
   <tr>
   <th >
- <p></p>
+ <p>6.4.1)نام تجاری</p>
 </th >
   </tr>
    </table>
@@ -88,7 +88,7 @@
 <table style="width:100%">
   <tr>
   <th >
- <p></p>
+ <p>6.4.2)فیلد های کلمه و سناریوها </p>
 </th >
   </tr>
    </table>
@@ -98,7 +98,7 @@
 <table style="width:100%">
   <tr>
   <th >
- <p></p>
+ <p>6.4.3)سازگاری</p>
 </th >
   </tr>
    </table>
