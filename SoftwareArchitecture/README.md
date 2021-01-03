@@ -4,7 +4,6 @@
 - [Certificates]()
 - [GitHub](https://github.com/salehiaccount)
 ----------------
-- [CollaborativeReading](https://accounts.crowdin.com/login)
 
 --------------
 4. G-A04
