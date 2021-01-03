@@ -28,7 +28,7 @@
 <table style="width:100%">
   <tr>
   <th >
- <p></p>
+ <p>6.2.2)ویژگی‌های بازیگر</p>
 </th >
   </tr>
    </table>
