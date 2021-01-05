@@ -1,11 +1,20 @@
+# [PNU_3991_AR](https://github.com/salehiaccount/PNU_3991_AR)
+
 <div dir="rtl">
-  
+    
+##عباس صالحی 
 - [PNU_3991_AR](https://github.com/salehiaccount/PNU_3991_AR)
 - [Resume](https://soheilemail.github.io/ )
 - [Sop](https://salehiaccount.github.io/Sop/)
 - [Certificates]()
 - [GitHub](https://github.com/salehiaccount)
+    
+> ارزیابی ها
+##  بخش عمومی
+- [SZ_CV_CheckList_AR_3991]()
+- [SZ_GeneralSection_CheckList_AR_3991]()
 
+## دروس ارشد
 ------------------
 - [CHAPTER 23_Rapid development methodologies]() 
 
