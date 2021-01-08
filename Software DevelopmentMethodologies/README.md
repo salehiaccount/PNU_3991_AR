@@ -59,7 +59,7 @@
 <table style="width:100%">
   <tr>
   <th >
- <p>6.2.4)Chunksمحتوا</p>
+ <p>6.2.4)محتواChunks</p>
 </th >
   </tr>
    </table>
