@@ -9,12 +9,7 @@
 - [Certificates]()
 - [GitHub](https://github.com/salehiaccount)
     
-> ارزیابی ها
-##  بخش عمومی
-- [SZ_CV_CheckList_AR_3991]()
-- [SZ_GeneralSection_CheckList_AR_3991]()
 
-## دروس ارشد
 ----------------------
 - [CollaborativeReading](https://accounts.crowdin.com/login)
 ----------------------
