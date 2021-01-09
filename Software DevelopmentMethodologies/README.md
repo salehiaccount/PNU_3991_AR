@@ -15,7 +15,7 @@
 ### Presentation
 
 - [Part1](https://drive.google.com/file/d/1YfaXwDpi2YjGIAa9Dwh94vwmTxs6GEPJ/view?usp=sharing)
-- [Part1]()
+- [Part2](https://drive.google.com/file/d/1_0zfM-YvCedcWZ-fq9bMnGzOyDsA0dmn/view?usp=sharing)
 
 
 ----------------------------------------
