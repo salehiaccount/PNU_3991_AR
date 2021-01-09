@@ -14,12 +14,9 @@
 
 ### Presentation
 
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+- [Part1](https://drive.google.com/file/d/1YfaXwDpi2YjGIAa9Dwh94vwmTxs6GEPJ/view?usp=sharing)
+- [Part1]()
+
 
 ----------------------------------------
 - [CHAPTER 06_Categories of Web Information Systems]()
