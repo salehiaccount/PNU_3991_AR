@@ -34,7 +34,7 @@
   </tr>
    </table>
    
-- [6.2.3 Verb Fields, Functionality and Scenarios]()
+- 6.2.3 Verb Fields, Functionality and Scenarios
 
 <table style="width:100%">
   <tr>
@@ -45,7 +45,7 @@
   </tr>
    </table>
 
-- [6.2.4 Content Chunks]()
+- 6.2.4 Content Chunks
 
 <table style="width:100%">
   <tr>
@@ -56,7 +56,7 @@
   </tr>
    </table>
 
-- [6.3 Entertainment and Gaming Systems]()
+- 6.3 Entertainment and Gaming Systems
 
 <table style="width:100%">
   <tr>
@@ -67,7 +67,7 @@
   </tr>
    </table>
 
-- [6.4 Identity and Personal Presentation]()
+- 6.4 Identity and Personal Presentation
 
 <table style="width:100%">
   <tr>
@@ -78,7 +78,7 @@
   </tr>
    </table>
 
-- [6.4.1 Branding]()
+- 6.4.1 Branding
 
 <table style="width:100%">
   <tr>
@@ -89,7 +89,7 @@
   </tr>
    </table>
 
-- [6.4.2 Word Fields and Scenarios]()
+- 6.4.2 Word Fields and Scenarios
 
 <table style="width:100%">
   <tr>
@@ -100,7 +100,7 @@
   </tr>
    </table>
 
-- [6.4.3 Adaptation]()
+- 6.4.3 Adaptation
 
 <table style="width:100%">
   <tr>
