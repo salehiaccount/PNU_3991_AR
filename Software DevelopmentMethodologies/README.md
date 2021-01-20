@@ -19,11 +19,11 @@
 
 
 ----------------------------------------
-- [CHAPTER 06_Categories of Web Information Systems]()
+- [CHAPTER 06_Categories of Web Information Systems](https://github.com/salehiaccount/PNU_3991_AR/tree/main/Software%20DevelopmentMethodologies/Reading)
 
 ### Reading
 
-- [6.2.2 Actor Specification]()
+- 6.2.2 Actor Specification
 
 <table style="width:100%">
   <tr>
