@@ -19,9 +19,9 @@
 - [خلاصه ارزیابی بخش عمومی](https://github.com/salehiaccount/PNU_3991_AR/blob/main/_General/XX_GeneralSection_CheckList_AR_3991.pdf)
 
 ##  بخش دروس ارشد
-- [خلاصه ارزیابی درس_مهندسی نرم افزار پیشرفته]()
-- [خلاصه ارزیابی درس_متدولوژی توسعه نرم افزار]()
-- [خلاصه ارزیابی درس_معماری نرم افزار]()
+- [خلاصه ارزیابی درس_مهندسی نرم افزار پیشرفته](https://github.com/salehiaccount/PNU_3991_AR/blob/main/AdvancedSoftwareEngineering/AS_AdvancedSoftwareEngineering_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی درس_متدولوژی توسعه نرم افزار](https://github.com/salehiaccount/PNU_3991_AR/blob/main/Software%20DevelopmentMethodologies/AS_SoftwareDevelopmentMethodologies_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی درس_معماری نرم افزار](https://github.com/salehiaccount/PNU_3991_AR/blob/main/SoftwareArchitecture/AS_SoftwareArchitecture_CheckList_AR_3991.pdf)
 
 ---------------
 ## فهرست درس ها  
